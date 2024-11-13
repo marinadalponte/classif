@@ -1,5 +1,7 @@
 # classif
 
+![cropped_logo](https://github.com/user-attachments/assets/38ea7e0c-3af3-4026-af55-b87d5bc6c78a)
+
 This is a statiscal method to infer a spectral type for a ultracool dwarfs based only on their photometry. The procedure is described in detail Carnero Rosell et al. (2019), based on Skrzypek et al. (2015). 
 
 The spectral type is assigned by the minimization of the $\chi^2$ relative to empirical templates. The $\chi^2$ for the $k$-th source and the $j$-th spectral type is
