@@ -1,6 +1,6 @@
 # classif
 
-<img src="https://github.com/marinadalponte/classif/blob/main/logo/cropped_logo.png" width="250">
+<img src="https://github.com/marinadalponte/classif/blob/main/logo/cropped_logo.png" width="150">
 
 Based on Skrzypek et al. (2015), this is a statiscal method to infer a spectral type for a ultracool dwarfs based only on their photometry. The procedure is described in detail Carnero Rosell et al. (2019). 
 
